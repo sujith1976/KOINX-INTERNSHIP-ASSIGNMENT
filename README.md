@@ -6,4 +6,4 @@ STEPS:
 2. INSTALL DEPENDENCIES:$ npm install
 3. RUN:$ npm start
 
-PROJECT DEPLOYED LINK:http://localhost:6000
+PROJECT DEPLOYED LINK: http://localhost:6000
